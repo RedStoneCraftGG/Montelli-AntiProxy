@@ -1,4 +1,4 @@
-package montelli
+package main
 
 import (
 	"fmt"
