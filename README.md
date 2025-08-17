@@ -8,6 +8,7 @@ package main
 
 import (
     "fmt"
+    "github.com/redstonecraftgg/montelli-antiproxy"
 )
 
 func main() {
